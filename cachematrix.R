@@ -1,5 +1,4 @@
-## makeCacheMatrix is a function that can cashe the inverse of a matrix.
-## If the inverse has already been calculated (and the matrix has not changed), then the cacheSolve function retrieves the inverse from the cache.
+## makeCacheMatrix is a function that can cashe the inverse of a matrix. If the inverse has already been calculated (and the matrix has not changed), then the cacheSolve function retrieves the inverse from the cache.
 
 ## This function creates a special "matrix" object that can cache its inverse
 
